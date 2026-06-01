@@ -12,3 +12,5 @@ The package includes minimalist ROS 2 code to demonstrate important ROS 2 concep
 - ROS 2 installed
 - Python 3
 - Created ROS 2 workspace (`ros2_ws`)
+
+- Ovo je test
